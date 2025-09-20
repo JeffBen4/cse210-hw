@@ -1,0 +1,14 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\bin\Debug\net8.0\Exercise1.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\bin\Debug\net8.0\Exercise1.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\bin\Debug\net8.0\Exercise1.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\Exercise1.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-01\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll

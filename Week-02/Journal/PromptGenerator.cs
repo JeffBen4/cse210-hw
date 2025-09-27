@@ -22,3 +22,4 @@ public class PromptGenerator
         return _prompts[i];
     }
 }
+

@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\bin\Debug\net8.0\Journal.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\bin\Debug\net8.0\Journal.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\bin\Debug\net8.0\Journal.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\bin\Debug\net8.0\Journal.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\bin\Debug\net8.0\Journal.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\refint\Journal.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\Journal.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-02\Journal\obj\Debug\net8.0\ref\Journal.dll

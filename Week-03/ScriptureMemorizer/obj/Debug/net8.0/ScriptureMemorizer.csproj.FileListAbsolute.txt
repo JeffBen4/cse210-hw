@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\refint\ScriptureMemorizer.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-03\ScriptureMemorizer\obj\Debug\net8.0\ref\ScriptureMemorizer.dll

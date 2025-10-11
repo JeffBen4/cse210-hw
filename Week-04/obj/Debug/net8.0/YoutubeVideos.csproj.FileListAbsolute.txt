@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\bin\Debug\net8.0\YoutubeVideos.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\bin\Debug\net8.0\YoutubeVideos.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\bin\Debug\net8.0\YoutubeVideos.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\bin\Debug\net8.0\YoutubeVideos.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\bin\Debug\net8.0\YoutubeVideos.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\refint\YoutubeVideos.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\YoutubeVideos.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-04\obj\Debug\net8.0\ref\YoutubeVideos.dll

@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\refint\ExerciseTracking.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-07\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll

@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-05\Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll

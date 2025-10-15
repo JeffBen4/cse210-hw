@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\bin\Debug\net8.0\EternalQuest.exe
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\bin\Debug\net8.0\EternalQuest.deps.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\bin\Debug\net8.0\EternalQuest.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\bin\Debug\net8.0\EternalQuest.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\bin\Debug\net8.0\EternalQuest.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\refint\EternalQuest.dll
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.pdb
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\EternalQuest.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\PC-BYU\cse210-hw\Week-06\EternalQuest\obj\Debug\net8.0\ref\EternalQuest.dll

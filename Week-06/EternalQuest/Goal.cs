@@ -2,16 +2,20 @@ using System;
 
 public abstract class Goal
 {
-    public string Name { get; protected set; }
-    public string Description { get; protected set; }
-    public int Points { get; protected set; }
+    private string _name;
+    private string _description;
+    private int _points;
 
     protected Goal(string name, string description, int points)
     {
-        Name = name;
-        Description = description;
-        Points = points;
+        _name = name;
+        _description = description;
+        _points = points;
     }
+
+    public string Name => _name;
+    public string Description => _description;
+    public int Points => _points;
 
     public abstract bool IsComplete { get; }
     public abstract int RecordEvent();
@@ -22,6 +26,7 @@ public abstract class Goal
     {
         var parts = data.Split('|');
         if (parts.Length < 1) return null;
+
         var type = parts[0];
         if (type == "SimpleGoal")
         {
@@ -51,6 +56,7 @@ public abstract class Goal
             var count = int.Parse(parts[6]);
             return new ChecklistGoal(name, desc, pts, target, bonus, count);
         }
+
         return null;
     }
 }

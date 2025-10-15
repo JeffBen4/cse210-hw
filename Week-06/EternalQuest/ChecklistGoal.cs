@@ -1,35 +1,35 @@
 public class ChecklistGoal : Goal
 {
-    public int TargetCount { get; private set; }
-    public int Bonus { get; private set; }
-    public int CurrentCount { get; private set; }
+    private int _targetCount;
+    private int _bonus;
+    private int _currentCount;
 
     public ChecklistGoal(string name, string description, int points, int targetCount, int bonus, int currentCount = 0)
         : base(name, description, points)
     {
-        TargetCount = targetCount;
-        Bonus = bonus;
-        CurrentCount = currentCount;
+        _targetCount = targetCount;
+        _bonus = bonus;
+        _currentCount = currentCount;
     }
 
-    public override bool IsComplete => CurrentCount >= TargetCount;
+    public override bool IsComplete => _currentCount >= _targetCount;
 
     public override int RecordEvent()
     {
         if (IsComplete) return 0;
-        CurrentCount++;
-        if (IsComplete) return Points + Bonus;
+        _currentCount++;
+        if (IsComplete) return Points + _bonus;
         return Points;
     }
 
     public override string GetStatus()
     {
         var box = IsComplete ? "[X]" : "[ ]";
-        return $"{box} {Name} ({Description}) — Completed {CurrentCount}/{TargetCount}";
+        return $"{box} {Name} ({Description}) — Completed {_currentCount}/{_targetCount}";
     }
 
     public override string Serialize()
     {
-        return $"ChecklistGoal|{Name}|{Description}|{Points}|{TargetCount}|{Bonus}|{CurrentCount}";
+        return $"ChecklistGoal|{Name}|{Description}|{Points}|{_targetCount}|{_bonus}|{_currentCount}";
     }
 }
